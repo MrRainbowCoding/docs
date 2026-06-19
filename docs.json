@@ -32,7 +32,8 @@
             "dropdown": "Chubby",
             "pages": [
               "chubby-home",
-              "creating-shares"
+              "creating-shares",
+              "create-account"
             ],
             "icon": "folder",
             "color": {

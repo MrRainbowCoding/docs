@@ -31,7 +31,12 @@
           "icon": "newspaper"
         }
       ]
-    }
+    },
+    "products": [
+      {
+        "product": "Chubby"
+      }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",

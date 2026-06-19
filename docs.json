@@ -18,20 +18,6 @@
         ]
       }
     ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    },
     "tabs": [
       {
         "tab": "Home",
@@ -45,8 +31,14 @@
           {
             "dropdown": "Chubby",
             "pages": [
+              "chubby-home",
               "creating-shares"
-            ]
+            ],
+            "icon": "folder",
+            "color": {
+              "light": "#fffb00",
+              "dark": "#fffb00"
+            }
           }
         ]
       }

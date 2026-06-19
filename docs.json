@@ -41,9 +41,9 @@
       },
       {
         "tab": "Sites",
-        "products": [
+        "dropdowns": [
           {
-            "product": "Chubby",
+            "dropdown": "Chubby",
             "pages": [
               "creating-shares"
             ]

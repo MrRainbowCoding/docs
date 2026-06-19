@@ -32,9 +32,23 @@
         }
       ]
     },
-    "products": [
+    "tabs": [
       {
-        "product": "Chubby"
+        "tab": "Home",
+        "pages": [
+          "index"
+        ]
+      },
+      {
+        "tab": "Sites",
+        "products": [
+          {
+            "product": "Chubby",
+            "pages": [
+              "creating-shares"
+            ]
+          }
+        ]
       }
     ]
   },
